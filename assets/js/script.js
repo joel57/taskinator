@@ -186,4 +186,4 @@ pageContentEl.addEventListener("click", taskButtonHandler);
 pageContentEl.addEventListener("change", taskStatusChangeHandler);
 
 
-//At page 4.3.7
+//At page 4.4.3
