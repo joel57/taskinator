@@ -1,13 +1,22 @@
-# taskinator
+# Taskinator
 
-Is a task manager or to do list.
+A Task Tracking Application .
+Its a simple Kanban Style task mananging application..
 
 
-##Technology
+## Technology
 
-*HTML5
-*CSS
-*JavaScript
+* HTML5
+* CSS
+* JavaScript
+
+### Image
+
+<img src="./assets/images/task.png">
+
+#### Link
+
+https://joel57.github.io/taskinator/
 
 
 
